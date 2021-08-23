@@ -5,3 +5,20 @@ Machine Learning and Deep Learning enthusiast. Open source Web and Software enth
 psgareja/psgareja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+My Programming Skills
+Python
+C++
+C#
+Perl
+Javascript
+VBA
+Shell
+Powershell
+objective-c
+java
+c
+lua script
+php
+sql
+nosql
